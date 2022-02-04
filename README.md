@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Reneilwe-Kutlwano
-- 👀 I’m interested in developing web applications and software engineering.
-- 🌱 I’m currently learning information technology and computer science in application development
+- 👀 I’m interested in developing web applications and software development.
+- 🌱 I’m currently studying information technology and computer science in application development
 - 💞️ I’m looking to collaborate on potential development projects
 - 📫 How to reach me: Email:rkmotlhabi@gmail.com , Linkedin: Reneilwe-Kutlwano Motlhabi
 
